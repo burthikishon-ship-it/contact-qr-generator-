@@ -1,1 +1,0 @@
-# contact-qr-generator-
